@@ -1,0 +1,1 @@
+start call bin\NB.exe
